@@ -1,0 +1,2 @@
+#speedjp.py
+print("hi")
